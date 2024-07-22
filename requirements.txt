@@ -1,0 +1,6 @@
+pandas==1.5.3
+PIL==10.1.0
+numpy==1.26.4
+tkinter==8.6.0
+xgboost==1.75
+python==3.8.0
